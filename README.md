@@ -58,5 +58,5 @@
 ## 📲 Quick Install
 
 ```
-1. Download EaglePortOs.apk  ──▶  2. Tap APK & Allow Unknown Apps  ──▶  3. Set as Default Home App
+ 1. Download EaglePortOs.apk  ──▶  2. Tap APK & Allow Unknown Apps  ──▶  3. Set as Default Home App
 ```
