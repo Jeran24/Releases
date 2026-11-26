@@ -20,25 +20,21 @@
 <table>
   <tr>
     <td align="center" width="25%">
-      <img src="screenshots/home.jpg" alt="Home Screen" width="200"/><br/>
+      <img src="Images/home.png" alt="Home Screen" width="200"/><br/>
       <b>🏠 Glass Home</b><br/>
       <sub>Clock, Weather & Smart Dock</sub>
     </td>
     <td align="center" width="25%">
-      <img src="screenshots/app-library.jpg" alt="App Library" width="200"/><br/>
+      <img src="Images/apps.png.png" alt="App Library" width="200"/><br/>
       <b>⬡ App Library</b><br/>
       <sub>Hex Grid & Instant Search</sub>
     </td>
     <td align="center" width="25%">
-      <img src="screenshots/phone-status.jpg" alt="Phone Status" width="200"/><br/>
+      <img src="Images/status.png" alt="Phone Status" width="200"/><br/>
       <b>📊 Device Center</b><br/>
       <sub>Battery, RAM, Storage & CPU</sub>
     </td>
-    <td align="center" width="25%">
-      <img src="screenshots/navigation.jpg" alt="Navigation Bar" width="200"/><br/>
-      <b>🧭 Quick Nav</b><br/>
-      <sub>Built-in Back, Home & Recents</sub>
-    </td>
+   
   </tr>
 </table>
 
