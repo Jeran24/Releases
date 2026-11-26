@@ -25,7 +25,7 @@
       <sub>Clock, Weather & Smart Dock</sub>
     </td>
     <td align="center" width="25%">
-      <img src="Images/apps.png.png" alt="App Library" width="200"/><br/>
+      <img src="Images/apps.png" alt="App Library" width="200"/><br/>
       <b>⬡ App Library</b><br/>
       <sub>Hex Grid & Instant Search</sub>
     </td>
