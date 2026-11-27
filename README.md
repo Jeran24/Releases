@@ -58,7 +58,7 @@
 ## 📲 Quick Install
 
 <div>
- <a href="https://github.com/Jeran24/Releases/raw/main/Android-releases/EaglePortOs.apk">1 .⬇️ Download Latest versin 1.1pro Android installer</a><br> ──▶  2. Tap installer & Allow Unknown Apps  <br>──▶  3. Set as Default Home App
+ 1 .<a href="https://github.com/Jeran24/Releases/raw/main/Android-releases/EaglePortOs.apk">⬇️ Download Latest versin 1.1pro Android installer</a><br> ──▶  2. Tap installer & Allow Unknown Apps  <br>──▶  3. Set as Default Home App
  <br>
 
  <h4 style="color:yellow">contact me or Buy me a coffe: 0798841995  </h4>
