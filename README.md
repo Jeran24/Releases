@@ -58,8 +58,11 @@
 ## 📲 Quick Install
 
 <div>
- [** 1 .⬇️ Download Latest versin 1.1pro Android installer**](https://github.com/Jeran24/Releases/raw/main/Android-releases/EaglePortOs.apk)  ──▶  2. Tap installer & Allow Unknown Apps  ──▶  3. Set as Default Home App
+ <a href="https://github.com/Jeran24/Releases/raw/main/Android-releases/EaglePortOs.apk">1 .⬇️ Download Latest versin 1.1pro Android installer</a><br> ──▶  2. Tap installer & Allow Unknown Apps  <br>──▶  3. Set as Default Home App
+ <br>
+
+ <h4 style="color:yellow">contact me or Buy me a coffe: 0798841995  </h4>
+ <h3>Thank you For your comming</h3>
 </div>
 
-## Buy me a coffe 
-via momo :*182*1*1*0798841995# 
+
