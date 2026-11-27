@@ -9,7 +9,7 @@
 ![RAM](https://img.shields.io/badge/RAM%20Footprint-1%20GB%20Ready-00C853?style=for-the-badge)
 ![Resolution](https://img.shields.io/badge/Display-480%C3%97960-7C4DFF?style=for-the-badge)
 
-[**⬇️ Download Latest versin 1.1pro Android installer**](https://github.com/Jeran24/Releases/raw/main/Android-releases/EaglePortOs.apk)
+[**⬇️ Download Latest versin 1.2pro Android installer**](https://github.com/Jeran24/Releases/raw/main/Android-releases/EaglePortOs.apk)
 
 </div>
 
@@ -58,7 +58,7 @@
 ## 📲 Quick Install
 
 <div>
- 1 .<a href="https://github.com/Jeran24/Releases/raw/main/Android-releases/EaglePortOs.apk">⬇️ Download EaglePort</a> Latest version 1.1pro<br> ──▶  2. Tap installer & Allow Unknown Apps  <br>──▶  3. Set as Default Home App
+ 1 .<a href="https://github.com/Jeran24/Releases/raw/main/Android-releases/EaglePortOs.apk">⬇️ Download EaglePort</a> Latest version 1.2pro<br> ──▶  2. Tap installer & Allow Unknown Apps  <br>──▶  3. Set as Default Home App
  <br>
 
  <h4 style="color:yellow">contact me or Buy me a coffe: 0798841995  </h4>
